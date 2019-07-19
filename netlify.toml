@@ -1,4 +1,4 @@
 [build]
 base = "safespace/"
-publish = "safespace/build"
+publish = "safespace/"
 command = "npm run build"
