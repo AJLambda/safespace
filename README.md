@@ -1,3 +1,5 @@
+*My front-end work is deployed @https://safespace-frontend.netlify.com/*
+
 *This repository is my individual work taken from my team's repository https://github.com/safespace-bw*
 
 # Safespace 
