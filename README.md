@@ -2,6 +2,8 @@
 
 *This repository is my individual work taken from my team's repository @ https://github.com/safespace-bw*
 
+![Imgur Image](https://imgur.com/BXYXEn0.jpg)
+
 # Safespace 
 
 Don’t fight mental health alone. Use technology to help you fight it.
