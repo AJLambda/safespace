@@ -1,12 +1,12 @@
-*My front-end work is deployed @https://safespace-frontend.netlify.com/*
+*My front-end work is deployed @ https://safespace-frontend.netlify.com/*
 
-*This repository is my individual work taken from my team's repository https://github.com/safespace-bw*
+*This repository is my individual work taken from my team's repository @ https://github.com/safespace-bw*
 
 # Safespace 
 
 Don’t fight mental health alone. Use technology to help you fight it.
 
-# Frontend
+## Frontend
 
 This was my first group project at Lambda School as the Front End Developer and second group project overall. I have moved my portion of the project into my own repository here to continue to work on it in deployment as I do not have control of deployment or PR's in the team repository.
 
@@ -14,7 +14,7 @@ The MVP of this project was to build out a web application that consumes a CRUD 
 
 Overall, this project was a good lesson in creating a React app from scratch. I fleshed out this app with functional and class components as well as array methods to dynamically render the elements. I also incorporated my newly acquired knowledge of react-router when I made this project and learned more about how CRUD operations drive an application.
 
-# The 4 week unit at Lambda School that I was in prior to creating this project was the Web Application Development Unit. During this unit, I explored the following topics:
+### The 4 week unit at Lambda School that I was in prior to creating this project was the Web Application Development Unit. During this unit, I explored the following topics:
 
 - Functional Components 1 - 2
 - Class Components 1-2
