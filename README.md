@@ -1,4 +1,4 @@
-*This repository is my personal work taken from my team's repository https://github.com/safespace-bw*
+*This repository is my individual work taken from my team's repository https://github.com/safespace-bw*
 
 # Safespace 
 
