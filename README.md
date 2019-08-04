@@ -10,7 +10,7 @@ This was my first group project at Lambda School as the Front End Developer and 
 
 The MVP of this project was to build out a web application that consumes a CRUD API. I pair programmed with the UI Developers and Back End Developers on my team to ensure that all of my React components were wired up in proper fashion. The stretch goal of this app was to connect to the Twilio API in order to send out positive text reminders throughout the day. We unfortunately did not have the time to complete that feature as this project was only worked on for 4 days, however this is something I would like to incorporate in the future.
 
-Overall, this project was a good lesson in creating a React app from scratch. I fleshed the app out with functional and class components as well as array methods to dynamically render the elements. I also incorporated my newly acquired knowledge of react-router when I made this project and learned more about how CRUD operations drive an application.
+Overall, this project was a good lesson in creating a React app from scratch. I fleshed out this app with functional and class components as well as array methods to dynamically render the elements. I also incorporated my newly acquired knowledge of react-router when I made this project and learned more about how CRUD operations drive an application.
 
 # The 4 week unit at Lambda School that I was in prior to creating this project was the Web Application Development Unit. During this unit, I explored the following topics:
 
