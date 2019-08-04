@@ -2,7 +2,7 @@
 
 *This repository is my individual work taken from my team's repository @ https://github.com/safespace-bw*
 
-![Imgur Image](https://imgur.com/BXYXEn0.jpg)
+![Imgur Image](https://imgur.com/072mOyg.jpg)
 
 # Safespace 
 
