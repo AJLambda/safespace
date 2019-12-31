@@ -10,11 +10,11 @@ Don’t fight mental health alone. Use technology to help you fight it.
 
 ## Frontend
 
-This was my first group project at Lambda School as the Front End Developer and second group project overall. I have moved my portion of the project into my own repository here to continue to work on it in deployment as I do not have control of deployment or PR's in the team repository.
+This was my first group project at Lambda School as the Front End Developer and second group project overall.
 
-The MVP of this project was to build out a web application that consumes a CRUD API. I pair programmed with the UI Developers and Back End Developers on my team to ensure that all of my React components were wired up in proper fashion. The stretch goal of this app was to connect to the Twilio API in order to send out positive text reminders throughout the day. We unfortunately did not have the time to complete that feature as this project was only worked on for 4 days, however this is something I would like to incorporate in the future.
+The MVP of this project was to build out a web application that consumes a CRUD API. I pair programmed with the UI Developers and Back End Developers on my team to ensure that all of my React components were wired up in proper fashion. The stretch goal of this app was to connect to the Twilio API in order to send out positive text reminders throughout the day. 
 
-Overall, this project was a good lesson in creating a React app from scratch. I fleshed out this app with functional and class components as well as array methods to dynamically render the elements. I also incorporated my newly acquired knowledge of react-router when I made this project and learned more about how CRUD operations drive an application.
+Overall, this project was a good lesson in creating a React app from scratch. I fleshed out this app with functional and class components as well as array methods to dynamically render the elements. I also incorporated my newly acquired knowledge of react-router when I made this project and learned more about how CRUD operations drive an application. Twilio was also a very fun API to incorporate that really made sending out text messages from this SPA simple and intuitive. 
 
 #### This project was completed during the month 2 unit: Web Application Development. 
 The *Web Application Development* unit explored the following topics:
